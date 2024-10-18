@@ -1,2 +1,3 @@
 # Sum-of-two-integers
 Inspired by Prof. Nguyen Duc Tien (SoICT)
+The story began yesterday when I was participating in a class on Introduction to Communications and Technology (IT2000), the first course I took at the university. My professor started the lecture by suggesting some platforms that would be useful for our careers. He said that everyone should build a decent Facebook and LinkedIn profile and that we should also upload the code of our projects at school onto Github, even the simplest ones like finding the sum of two numbers. So that's the reason why I created this. I hope you'll enjoy it!
